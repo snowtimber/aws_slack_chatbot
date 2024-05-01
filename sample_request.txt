@@ -1,0 +1,5 @@
+# instructions for setting up slackbot
+https://docs.aws.amazon.com/chatbot/latest/adminguide/slack-setup.html
+
+# plain text example - paste into slack channel for slack bot
+@awslambda invoke --function-name chatbot-claude --region us-east-1 --payload '{"body": {"prompt": "What AWS databases work with geo data querying"}}'
