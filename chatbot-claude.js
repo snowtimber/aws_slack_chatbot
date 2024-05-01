@@ -1,3 +1,4 @@
+// index.mjs
 import { fileURLToPath } from 'url';
 import {
   BedrockRuntimeClient,
