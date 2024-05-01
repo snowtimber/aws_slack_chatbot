@@ -23,3 +23,5 @@ Feel free to replace the prompt with your desired query, and let Claude work its
 With this setup, you can now engage in seamless conversations with Claude, leveraging its vast knowledge and capabilities. Whether you're seeking insights, brainstorming ideas, or simply exploring the depths of AI, Claude is at your fingertips, ready to assist you in the most delightful way possible. 🌟
 
 Happy querying, and may the power of AI elevate your Slack experience to new heights! 🚀🎉
+
+Created by Logan Meyer 2024
